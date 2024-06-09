@@ -17,4 +17,4 @@
     <li>Pruebas en el funcionamiento del aplicativo.</li>
   </ul>
 <hr>
-<h3><i>II conocimientos específicos</i></h3>
+<h3><i>II Conocimientos Específicos</i></h3>
