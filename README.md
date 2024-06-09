@@ -19,3 +19,4 @@
 <hr>
 <h3><i>II Conocimientos Específicos</i></h3>
 <p>Se realiza el desarrollo para plataforma Android bajo el Framework Flutter <a href="gestionInsEdu">codigo fuente</a></p>
+<img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaUno.png?raw=true" alt="UniversidadLogo">
