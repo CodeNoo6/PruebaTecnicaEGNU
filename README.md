@@ -16,3 +16,5 @@
     <li>Ver posibles actualizaciones previamente analizando si son soportadas.</li>
     <li>Pruebas en el funcionamiento del aplicativo.</li>
   </ul>
+<hr>
+<h3><i>I Resolución de problemas</i></h3>
