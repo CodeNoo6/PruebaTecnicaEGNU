@@ -18,4 +18,4 @@
   </ul>
 <hr>
 <h3><i>II Conocimientos Específicos</i></h3>
-<p>Se realiza el desarrollo para plataforma Android bajo el Framework Flutter <a href="gestionInsEdu">codigo fuente</a>:</p>
+<p>Se realiza el desarrollo para plataforma Android bajo el Framework Flutter <a href="gestionInsEdu">codigo fuente</a></p>
