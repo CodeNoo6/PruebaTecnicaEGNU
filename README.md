@@ -10,4 +10,4 @@
     <li>Implementación: desarrollo de cada uno de los módulos de la aplicación acorde a los diagramas previamente creados.</li>
     <li>Pruebas: observar cómo se comporta el aplicativo desarrollado para proveer errores futuros con pruebas de estrés.</li>
   </ul>
-<p>Rta 1: Para lograr cumplir con los objetivos en el desarrollo, se proponen las siguientes etapas: </p>
+<p><strong>Rta 2:</strong> Para lograr cumplir con los objetivos en el desarrollo, se proponen las siguientes etapas: </p>
