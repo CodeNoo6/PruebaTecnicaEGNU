@@ -7,5 +7,4 @@
   <ul>
     <li>VCC: 5v</li>
     <li>RX: 25</li>
-    <li>TX: 32</li>
   </ul>
