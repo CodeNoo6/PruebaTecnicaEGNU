@@ -3,4 +3,9 @@
 <p align="center"><i>ENGENIUS - Rubén Eduardo Camargo Ortegón</i></p>
 <hr>
 <h3><i>Etapa I Resolución de problemas</i></h3>
-<p>Using the following datasheet corresponding to the ESP32, the pins for each component are described:</p>
+<p>PM 2.5 Air/Dust Particle Sensor G5 PMS500: </p>
+  <ul>
+    <li>VCC: 5v</li>
+    <li>RX: 25</li>
+    <li>TX: 32</li>
+  </ul>
