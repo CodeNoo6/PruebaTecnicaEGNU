@@ -1,1 +1,1 @@
-<h3 align="center"><i>Environmental Data Acquisition System</i></h3>
+<h3 align="center"><i>Prueba Técnica</i></h3>
