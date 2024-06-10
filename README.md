@@ -42,7 +42,7 @@
       <p>Grupos Asociados</p>
     </td>
    <td style="text-align: center;">
-      <img src="imagen3.jpg" alt="Imagen3" width="150" style="margin: 0 auto;">
+      <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaCuatro.png?raw=true" alt="DiseñoDos" width="200" style="margin: 0 auto;">
       <p>Descripción de la tercera imagen</p>
     </td>
   </tr>
