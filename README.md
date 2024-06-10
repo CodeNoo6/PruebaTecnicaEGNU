@@ -41,5 +41,9 @@
       <img src="imagen3.jpg" alt="Imagen3" width="150" style="margin: 0 auto;">
       <p>Descripción de la tercera imagen</p>
     </td>
+   <td style="text-align: center;">
+      <img src="imagen3.jpg" alt="Imagen3" width="150" style="margin: 0 auto;">
+      <p>Descripción de la tercera imagen</p>
+    </td>
   </tr>
 </table>
