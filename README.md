@@ -43,7 +43,7 @@
     </td>
    <td style="text-align: center;">
       <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaCuatro.png?raw=true" alt="DiseñoDos" width="200" style="margin: 0 auto;">
-      <p>Descripción de la tercera imagen</p>
+      <p>Información de grupo</p>
     </td>
   </tr>
 </table>
