@@ -31,7 +31,7 @@
   <tr>
     <td style="text-align: center;">
       <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaUno.png?raw=true" alt="DisenoUno" width="200" style="margin: 0 auto;">
-      <p>  Sistema de autenticación</p>
+      <p style="text-align: center;">Sistema de autenticación</p>
     </td>
     <td style="text-align: center;">
       <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaDos.png?raw=true" alt="DiseñoDos" width="200" style="margin: 0 auto;">
