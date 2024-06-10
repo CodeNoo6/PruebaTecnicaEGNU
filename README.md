@@ -25,7 +25,7 @@
 <hr>
 <h3><i>II Conocimientos Específicos</i></h3>
 <p>Se realiza el desarrollo para plataforma Android bajo el Framework Flutter <a href="gestionInsEdu">codigo fuente</a></p>
-<p><strong>NOTA: </strong> En el sistema de autenticación de la app las credenciales son: </p>
+<p><strong>Interfaces Gráficas de Usuario:</strong></p>
 <table>
   <tr>
     <td style="text-align: center;">
