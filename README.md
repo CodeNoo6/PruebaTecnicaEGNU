@@ -35,7 +35,7 @@
     </td>
     <td style="text-align: center;">
       <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaDos.png?raw=true" alt="DiseñoDos" width="200" style="margin: 0 auto;">
-      <p>Inicio</p>
+      <p>Sedes Asociadas</p>
     </td>
     <td style="text-align: center;">
       <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaTres.png?raw=true" alt="DiseñoDos" width="200" style="margin: 0 auto;">
