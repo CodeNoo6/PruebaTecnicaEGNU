@@ -34,7 +34,7 @@
       <p>  Sistema de autenticación</p>
     </td>
     <td style="text-align: center;">
-      <img src="imagen2.jpg" alt="Imagen2" width="150" style="margin: 0 auto;">
+      <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaDos.png?raw=true" alt="DiseñoDos" width="200" style="margin: 0 auto;">
       <p>Descripción de la segunda imagen</p>
     </td>
     <td style="text-align: center;">
