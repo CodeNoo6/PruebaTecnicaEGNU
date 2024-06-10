@@ -22,7 +22,7 @@
 <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaUno.png?raw=true" alt="DisenoUno" width="150">
+      <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaUno.png?raw=true" alt="DisenoUno" width="200">
       <p>Descripción de la primera imagen</p>
     </td>
     <td>
