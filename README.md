@@ -21,15 +21,15 @@
 <p>Se realiza el desarrollo para plataforma Android bajo el Framework Flutter <a href="gestionInsEdu">codigo fuente</a></p>
 <table style="width:100%">
   <tr>
-    <td>
+    <td style="text-align: center;">
       <img src="https://github.com/CodeNoo6/PruebaTecnicaEGNU/blob/main/Dise%C3%B1oPantallas/PantallaUno.png?raw=true" alt="DisenoUno" width="200">
       <p>Descripción de la primera imagen</p>
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="imagen2.jpg" alt="Imagen2" width="150">
       <p>Descripción de la segunda imagen</p>
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="imagen3.jpg" alt="Imagen3" width="150">
       <p>Descripción de la tercera imagen</p>
     </td>
